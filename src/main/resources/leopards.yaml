@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: Lupi
+=======
+coach: Dooli
+>>>>>>> 02637cd (Edit Leopards coach)
 
 
 members:
